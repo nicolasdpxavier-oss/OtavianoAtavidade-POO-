@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtividadeElevador/AtividadeElevador.iml" filepath="$PROJECT_DIR$/AtividadeElevador/AtividadeElevador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtividadeFatura/AtividadeFatura.iml" filepath="$PROJECT_DIR$/AtividadeFatura/AtividadeFatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafioKata/desafioKata.iml" filepath="$PROJECT_DIR$/desafioKata/desafioKata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO1/ExercicioPOO1.iml" filepath="$PROJECT_DIR$/ExercicioPOO1/ExercicioPOO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO2/ExercicioPOO2.iml" filepath="$PROJECT_DIR$/ExercicioPOO2/ExercicioPOO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO3/ExercicioPOO3.iml" filepath="$PROJECT_DIR$/ExercicioPOO3/ExercicioPOO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO4/ExercicioPOO4.iml" filepath="$PROJECT_DIR$/ExercicioPOO4/ExercicioPOO4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO5/ExercicioPOO5.iml" filepath="$PROJECT_DIR$/ExercicioPOO5/ExercicioPOO5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO6/ExercicioPOO6.iml" filepath="$PROJECT_DIR$/ExercicioPOO6/ExercicioPOO6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO7/ExercicioPOO7.iml" filepath="$PROJECT_DIR$/ExercicioPOO7/ExercicioPOO7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO8/ExercicioPOO8.iml" filepath="$PROJECT_DIR$/ExercicioPOO8/ExercicioPOO8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO9/ExercicioPOO9.iml" filepath="$PROJECT_DIR$/ExercicioPOO9/ExercicioPOO9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioPOO10/ExercicioPOO10.iml" filepath="$PROJECT_DIR$/ExercicioPOO10/ExercicioPOO10.iml" />
+    </modules>
+  </component>
+</project>
